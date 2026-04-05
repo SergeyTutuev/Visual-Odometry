@@ -120,5 +120,5 @@ Scaramuzza, D., & Fraundorfer, F. (2011). Visual Odometry Tutorial. IEEE Robotic
 OpenCV: Stereo Correspondence, ORB, FLANN.
 ---
 
-##📝 Лицензия
+## 📝 Лицензия
 Проект предоставлен в образовательных целях.
