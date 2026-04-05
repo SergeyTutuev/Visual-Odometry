@@ -119,6 +119,3 @@ pip install numpy opencv-python scipy plotly tqdm
 Scaramuzza, D., & Fraundorfer, F. (2011). Visual Odometry Tutorial. IEEE Robotics & Automation Magazine.
 OpenCV: Stereo Correspondence, ORB, FLANN.
 ---
-
-## 📝 Лицензия
-Проект предоставлен в образовательных целях.
