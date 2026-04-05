@@ -55,7 +55,7 @@ $$
 Проекционная ошибка:
 
 $$
-E = \begin{pmatrix} q_{1}^{\text{pred}} - q_1 \\ q_{2}^{\text{pred}} - q_2 \end{pmatrix}
+E = \begin{pmatrix} q_{1}^{\text{pred}} - q_1, \\ q_{2}^{\text{pred}} - q_2 \end{pmatrix}
 $$
 
 Искомые параметры $R, t$ находятся минимизацией суммы квадратов ошибок:
